@@ -1,0 +1,15 @@
+ros-kinetic-turtlebot3-gazebo-plugin (0.2.0-0xenial) xenial; urgency=high
+
+  * added turtlebot3_house
+  * added msg function
+  * modified gazebo plugin
+  * modified tb3 control
+  * modified sensor param
+  * modified camera position
+  * modified image_listener
+  * deleted build folder
+  * Contributors: Darby Lim
+
+ -- Pyo <pyo@robotis.com>  Mon, 12 Mar 2018 15:00:00 -0000
+
+
